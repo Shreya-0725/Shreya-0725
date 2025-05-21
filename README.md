@@ -1,3 +1,4 @@
+![logo](https://github.com/Shreya-0725/Shreya-0725/blob/main/MY%20BANNER.png)
 <h1 align="center">Hi 👋, I'm Shreya Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
