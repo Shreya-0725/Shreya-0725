@@ -25,6 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
   <!-- SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
@@ -32,12 +33,12 @@
 
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 
   <!-- Power BI -->
@@ -47,12 +48,12 @@
 
   <!-- .NET Core -->
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET Core" width="40" height="40"/>
   </a>
 
-  <!-- ASP.NET (FIXED) -->
+  <!-- ASP.NET -->
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
-    <img src="https://user-images.githubusercontent.com/674621/71187849-6cd3f980-2258-11ea-93f4-01b6f3d9f0c2.png" alt="ASP.NET" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" alt="ASP.NET" width="40" height="40"/>
   </a>
 
   <!-- Visual Studio -->
@@ -60,6 +61,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
