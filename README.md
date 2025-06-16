@@ -24,45 +24,43 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Data Tools -->
-  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
   </a>
 
   <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 
   <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
   </a>
 
   <!-- .NET Core -->
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" width="40" height="40"/>
   </a>
 
-  <!-- ASP.NET -->
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/ASP.NET_logo.svg" alt="ASP.NET" width="40" height="40"/>
+  <!-- ASP.NET (FIXED) -->
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
+    <img src="https://user-images.githubusercontent.com/674621/71187849-6cd3f980-2258-11ea-93f4-01b6f3d9f0c2.png" alt="ASP.NET" width="40" height="40"/>
   </a>
 
   <!-- Visual Studio -->
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio" width="40" height="40"/>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-0725&show_icons=true&locale=en&layout=compact" alt="shreya-0725" /></p>
