@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-0725&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-0725" /> </p>
 
-- 🌱I’m currently learning Python, SQL, Power BI, Excel, and ASP.NET Web Forms with C#**
+- 🌱I’m currently learning Python, SQL, Power BI, Excel, and ASP.NET Web Forms with C#
 - 💻 I've built small projects in both .NET Web Forms and Data Analysis to strengthen my development skills.
 
 - 👨‍💻 All of my projects are available at [https://shreya-0725.github.io/](https://shreya-0725.github.io/)
