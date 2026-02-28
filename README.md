@@ -102,8 +102,6 @@ View My GitHub Projects
 
 <h3>📊 GitHub Stats</h3>
 
-<h3>📊 GitHub Stats</h3>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shreya-0725&show_icons=true&theme=default&count_private=true" height="180"/>
 </p>
