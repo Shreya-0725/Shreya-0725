@@ -1,20 +1,13 @@
-<!-- ================= TOP BANNER (ADD YOUR IMAGE LINK HERE) ================= -->
-<p align="center">
-  <img src="YOUR-IMAGE-LINK-HERE?raw=true" width="800"/>
-</p>
-
-<!-- ================= INTRO ================= -->
 
 <h1 align="center">👋 Hi! I'm Shreya</h1>
-<h3 align="center">Aspiring .NET Developer & Data Analyst from India</h3>
+<h3 align="center">Aspiring .NET Developer & Data Analyst</h3>
 
 <p align="center">
-Passionate about building scalable web applications and working with data-driven solutions.
-I focus on backend development and modern Microsoft technologies.
+I have experience in data analysis and I am currently focusing on building applications using .NET technologies.
 </p>
 
 <p align="center">
-Experienced with APIs, database management, and developing full-stack applications with clean architecture.
+Learning and working with backend development, APIs, databases, and business intelligence tools.
 </p>
 
 ---
@@ -22,21 +15,19 @@ Experienced with APIs, database management, and developing full-stack applicatio
 <!-- ================= PROFILE VIEWS ================= -->
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shreya-0725&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
+<img src="https://komarev.com/ghpvc/?username=shreya-0725&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-<!-- ================= ABOUT SECTION ================= -->
+<!-- ================= ABOUT ================= -->
 
 <h3>🚀 About Me</h3>
 
-- 🌱 Currently learning **Python, SQL, Power BI, Excel, ASP.NET MVC, ASP.NET Core Web API & EF Core**
-- 💻 Building projects in **.NET & Data Analytics**
-- 🔗 Portfolio: https://shreya-0725.github.io/
-- 📫 Email: **shreya070704@gmail.com**
-- 📄 Resume: https://Shreya-0725.github.io/Shreya_Resume.pdf
-- ⚡ Fun fact: I am funny 😜
+- 🌱 Currently improving my skills in **ASP.NET Core, Web API, EF Core & SQL**
+- 💻 Building small projects to strengthen backend & data concepts
+- 📊 Interested in data + application development
+- ⚡ I like learning by building practical projects
 
 ---
 
@@ -52,7 +43,7 @@ Experienced with APIs, database management, and developing full-stack applicatio
 
 ---
 
-<!-- ================= SKILLS ================= -->
+<!-- ================= TECH SKILLS ================= -->
 
 <h3>💻 Technical Skills</h3>
 
@@ -60,6 +51,9 @@ Experienced with APIs, database management, and developing full-stack applicatio
 
 <!-- .NET -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="45"/>
+
+<!-- C# -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
 
 <!-- ASP.NET MVC -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
@@ -79,10 +73,13 @@ Experienced with APIs, database management, and developing full-stack applicatio
 <!-- Power BI -->
 <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="45"/>
 
+<!-- Excel -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+
 </p>
 
 <p>
-.NET | ASP.NET MVC | Web API | EF Core | SQL | Python | Power BI
+.NET | C# | ASP.NET MVC | Web API | EF Core | SQL | Python | Power BI | Excel
 </p>
 
 ---
@@ -92,7 +89,7 @@ Experienced with APIs, database management, and developing full-stack applicatio
 <h3>📊 GitHub Stats</h3>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-0725&show_icons=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-0725&layout=compact"/>
 </p>
 
 <p>
