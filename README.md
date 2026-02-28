@@ -1,21 +1,19 @@
+<!-- ================= TOP BANNER ================= -->
+<p align="center">
+  <img src="YOUR-IMAGE-LINK-HERE?raw=true" width="800"/>
+</p>
 
-<!-- ================= TITLE ================= -->
+<!-- ================= INTRO ================= -->
 
 <h1 align="center">👋 Hi! I'm Shreya</h1>
 <h3 align="center">Aspiring .NET Developer & Data Analyst</h3>
 
 <p align="center">
-Focused on backend development using .NET technologies and working with data-driven solutions.
+I have experience in data analysis and I am currently focusing on backend development using .NET technologies.
 </p>
 
----
-
-<!-- ================= BADGES ================= -->
-
 <p align="center">
-<img src="https://img.shields.io/badge/.NET-Developer-blue"/>
-<img src="https://img.shields.io/badge/Data-Analyst-green"/>
-<img src="https://img.shields.io/badge/Backend-Development-purple"/>
+Learning and building projects around APIs, databases, and business intelligence tools.
 </p>
 
 ---
@@ -33,9 +31,9 @@ Focused on backend development using .NET technologies and working with data-dri
 <h3>🚀 About Me</h3>
 
 - 🌱 Improving skills in **ASP.NET Core, Web API, EF Core & SQL**
-- 💻 Building backend & data analysis projects
-- 📊 Working with databases and business intelligence tools
-- ⚡ Learning by building practical applications
+- 💻 Practicing backend development with real projects
+- 📊 Working with data tools and analytics
+- ⚡ Learning by building
 
 ---
 
@@ -57,18 +55,22 @@ Focused on backend development using .NET technologies and working with data-dri
 
 <!-- ROW 1 -->
 <p align="left">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+
 </p>
 
 <!-- ROW 2 -->
 <p align="left">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
 <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+
 </p>
 
 <p>
@@ -77,31 +79,17 @@ Focused on backend development using .NET technologies and working with data-dri
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-
-<h3>📂 Featured Projects</h3>
-
-🔹 **Project 1** – Backend API using ASP.NET Core & EF Core  
-🔹 **Project 2** – Data Analysis Project using Python & Power BI  
-🔹 **Project 3** – Web Application with Database Integration  
-
-👉 More projects on my GitHub profile.
-
----
-
-<!-- ================= GITHUB STATS ================= -->
+<!-- ================= GITHUB STATS (FIXED VERSION) ================= -->
 
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreya-0725&show_icons=true&theme=radical&count_private=true" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shreya-0725&show_icons=true&theme=default&count_private=true" width="500"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-0725&theme=radical" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-0725" width="500"/>
 </p>
-
----
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
