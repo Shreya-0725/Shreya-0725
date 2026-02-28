@@ -1,7 +1,3 @@
-<!-- ================= TOP BANNER ================= -->
-<p align="center">
-  <img src="YOUR-IMAGE-LINK-HERE?raw=true" width="800"/>
-</p>
 
 <!-- ================= INTRO ================= -->
 
