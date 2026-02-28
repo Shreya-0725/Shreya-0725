@@ -103,6 +103,7 @@ View My GitHub Projects
 
 ---
 <!-- ================= GITHUB STATS ================= -->
+<!-- ================= GITHUB STATS ================= -->
 
 <h3>📊 GitHub Stats</h3>
 
