@@ -1,3 +1,7 @@
+<!-- ================= TOP BANNER ================= -->
+<p align="center">
+  <img src="YOUR-IMAGE-LINK-HERE?raw=true" width="900"/>
+</p>
 
 <!-- ================= INTRO ================= -->
 
@@ -38,10 +42,34 @@ Learning and building projects around APIs, databases, and business intelligence
 <h3>🤝 Connect With Me</h3>
 
 <p>
+
+<!-- LinkedIn -->
 <a href="https://linkedin.com/in/shreyasingh0707" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
 </a>
+
+&nbsp;&nbsp;
+
+<!-- LeetCode -->
+<a href="https://leetcode.com/u/shreya980/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35"/>
+</a>
+
 </p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+<h3>📂 My Projects</h3>
+
+<p>
+🚀 Explore my project repositories here:
+</p>
+
+👉 <a href="https://github.com/Shreya-0725?tab=repositories" target="_blank">
+View My GitHub Projects
+</a>
 
 ---
 
@@ -75,17 +103,19 @@ Learning and building projects around APIs, databases, and business intelligence
 
 ---
 
-<!-- ================= GITHUB STATS (FIXED VERSION) ================= -->
+<!-- ================= GITHUB STATS ================= -->
 
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreya-0725&show_icons=true&theme=default&count_private=true" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shreya-0725&show_icons=true&theme=radical&count_private=true" width="500"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-0725" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-0725&theme=radical" width="500"/>
 </p>
+
+---
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
