@@ -102,21 +102,17 @@ View My GitHub Projects
 </p>
 
 ---
-
 <!-- ================= GITHUB STATS ================= -->
 
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreya-0725&show_icons=true&theme=radical&count_private=true" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shreya-0725&show_icons=true&theme=default&count_private=true" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-0725&theme=radical" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-0725&theme=default" height="180"/>
 </p>
-
----
-
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
 <h3>🔥 Contribution Graph</h3>
