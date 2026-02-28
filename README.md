@@ -104,7 +104,6 @@ View My GitHub Projects
 ---
 <!-- ================= GITHUB STATS ================= -->
 <!-- ================= GITHUB STATS ================= -->
-
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
@@ -112,7 +111,7 @@ View My GitHub Projects
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-0725&theme=default" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shreya-0725&theme=default&hide_border=true" height="180"/>
 </p>
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
