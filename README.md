@@ -1,7 +1,3 @@
-<!-- ================= TOP BANNER ================= -->
-<p align="center">
-  <img src="YOUR-IMAGE-LINK-HERE?raw=true" width="900"/>
-</p>
 
 <!-- ================= INTRO ================= -->
 
@@ -106,9 +102,14 @@ View My GitHub Projects
 
 <h3>📊 GitHub Stats</h3>
 
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shreya-0725&show_icons=true&theme=default&count_private=true" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shreya-0725&theme=default&hide_border=true" height="180"/>
 </p>
 
 <h3>🔥 Contribution Graph</h3>
