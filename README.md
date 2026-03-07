@@ -5,7 +5,7 @@
 <h3 align="center">Aspiring .NET Developer & Data Analyst</h3>
 
 <p align="center">
-I have experience in data analysis and I am currently focusing on backend development using .NET technologies.
+I am currently focusing on backend development using .NET technologies and have experience building APIs and working with databases. I also have experience in data analysis using Python and related tools, working on data processing and visualization projects.
 </p>
 
 <p align="center">
