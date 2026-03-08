@@ -110,15 +110,23 @@ View My GitHub Projects
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreya-0725&show_icons=true&theme=default&count_private=true" height="180"/>
+<img 
+src="https://github-readme-stats.vercel.app/api?username=Shreya-0725&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+height="180"
+/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shreya-0725&theme=default&hide_border=true" height="180"/>
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-0725&theme=radical&hide_border=true" 
+height="180"
+/>
 </p>
 
 <h3>🔥 Contribution Graph</h3>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-0725&theme=radical"/>
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-0725&theme=radical&hide_border=true" 
+/>
 </p>
