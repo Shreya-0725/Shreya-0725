@@ -2,7 +2,7 @@
 <!-- ================= INTRO ================= -->
 
 <h1 align="center">👋 Hi! I'm Shreya</h1>
-<h3 align="center">Aspiring .NET Developer & Data Analyst</h3>
+<h3 align="center">.NET Developer Intern</h3>
 
 <p align="center">
 I am currently focusing on backend development using .NET technologies and have experience building APIs and working with databases. I also have experience in data analysis using Python and related tools, working on data processing and visualization projects.
