@@ -53,6 +53,12 @@ Learning and building projects around APIs, databases, and business intelligence
 
 </p>
 
+
+<!-- Google Sites / Portfolio -->
+<a href="https://sites.google.com/view/shreya-global-affairs-research/home" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25694.png" width="35" alt="Portfolio"/>
+</a>
+
 ---
 
 <!-- ================= PROJECTS ================= -->
