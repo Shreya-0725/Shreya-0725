@@ -73,14 +73,7 @@ View My GitHub Projects
 
 
 
-<h3>📄 Research & Policy Portfolio</h3>
-<p>
-Check out my research on <b>global affairs & women leadership</b>:<br>
-<a href="https://sites.google.com/view/shreya-global-affairs-research/home" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/69/69524.png" width="25"/> View My Portfolio
-</a>
 
-</p>
 
 
 ------
