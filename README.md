@@ -115,7 +115,7 @@ View My GitHub Projects
 </p>
 
 <p>
-.NET | C# | ASP.NET MVC | Web API | EF Core | PostgreSQL | SQL Server | Python | Jupyter | Power BI | Excel | HTML | CSS| 
+.NET | C# | ASP.NET MVC | Web API | EF Core | PostgreSQL | SQL Server | Python | Jupyter | Power BI | Excel | HTML | CSS| Bootstrap
 </p>
 
 
