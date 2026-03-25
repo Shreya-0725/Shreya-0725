@@ -5,7 +5,7 @@
 <h3 align="center">.NET Developer Intern</h3>
 
 <p align="center">
-I am currently focusing on backend development using .NET technologies and have experience building APIs and working with databases. I also have experience in data analysis using Python and related tools, working on data processing and visualization projects.
+I am currently focusing on full-stack development using .NET technologies and have experience building APIs and working with databases. I also have experience in data analysis using Python and related tools, working on data processing and visualization projects.
 </p>
 
 <p align="center">
