@@ -124,7 +124,7 @@ View My GitHub Projects
 ## 📄 My Resume
 You can download my resume here:
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://github.com/Shreya-0725/Shreya-0725/raw/main/Shreya%20Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://github.com/Shreya-0725/Shreya-0725/blob/main/Shreya%20Resume.pdf)
 
 
 ---
